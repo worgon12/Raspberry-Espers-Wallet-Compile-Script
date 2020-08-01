@@ -1,3 +1,3 @@
-# Raspberry-Espers-Wallet-Compile-Script
+# NEW Raspberry-Espers-Wallet-Compile-Script
 Compile with 
 sudo sh Espers.sh
